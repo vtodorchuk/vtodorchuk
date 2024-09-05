@@ -18,6 +18,8 @@ Lviv, Ukraine
 - PostgreSQL
 - Swift/SwiftUI (basics)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtodorchuk&layout=compact)
+
 ## Languages 🌐
 
 - English (Upper Intermediate)
