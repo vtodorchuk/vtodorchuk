@@ -29,10 +29,10 @@ Lviv, Ukraine
 ### RoR Developer at Gotoinc
 - Ruby on Rails Developer (full-stuck)
 
-### RoR Developer at RubyGarage
+### RoR Developer at Vroboti
 - Ruby on Rails Developer (back-end)
 
-### RoR Developer at Vroboti
+### RoR Developer at RubyGarage
 - Ruby on Rails Developer (back-end)
 
 ## Education 🎓
