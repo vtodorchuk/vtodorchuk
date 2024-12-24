@@ -10,37 +10,30 @@ Lviv, Ukraine
 
 ## Skills 🚀
 
-- Ruby
-- Ruby on Rails
+- Ruby, Ruby on Rails
 - HTML, CSS, JavaScript
-- Git
-- Cypress
 - PostgreSQL
-- Swift/SwiftUI
+- Swift, SwiftUI
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtodorchuk&layout=compact" alt="Top Langs" />
 </div>
-
 
 ## Languages 🌐
 
 - English (Upper Intermediate)
 - Ukrainian (Native)
 
-## Hobbies 🎨
-
-- WW1 and WW2 reenactment: Fascinated by history, particularly the experiences of the Austro-Hungarian and German armies.
-- Bass Guitar: Enjoy creating music and exploring different genres.
-- Gym: Maintain an active lifestyle and prioritize physical fitness.
-
 ## Employment History 💼
 
-### RoR Developer at RubyGarage, Dnipro
-- Collaborated on business automation projects using Ruby on Rails and various gems, optimizing processes and enhancing system performance.
+### RoR Developer at Gotoinc
+- Ruby on Rails Developer (full-stuck)
 
-### RoR Developer at Vroboti, Kyiv
-- Led development efforts for a recruitment automation project, driving improvements in functionality, code structure, and system speed.
+### RoR Developer at RubyGarage
+- Ruby on Rails Developer (back-end)
+
+### RoR Developer at Vroboti
+- Ruby on Rails Developer (back-end)
 
 ## Education 🎓
 
@@ -50,3 +43,4 @@ Lviv, Ukraine
 ## Courses 📚
 
 - Java, Epam Systems: Expanded knowledge in Java programming.
+- Stanford CS193p - Developing Apps for iOS
